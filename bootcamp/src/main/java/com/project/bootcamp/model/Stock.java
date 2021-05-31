@@ -1,3 +1,4 @@
+
 package com.project.bootcamp.model;
 
 import javax.persistence.*;
